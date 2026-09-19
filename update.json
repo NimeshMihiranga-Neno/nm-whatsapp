@@ -1,7 +1,7 @@
 {
   "records": [
     {
-      "version": "v2.0",
+      "version": "v3.0",
       "url": "https://saku.kurox.site",
       "changelog": "- iOS Style Settings\n- Status Emoji Reactions (❤️ 😂 😢 😠)\n- Bug fixes and speed improvements",
       "code": 2
